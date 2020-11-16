@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\bin\Debug\Beräkningar.exe.config
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\bin\Debug\Beräkningar.exe
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\bin\Debug\Beräkningar.pdb
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\obj\Debug\Beräkningar.csprojAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\obj\Debug\Beräkningar.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\obj\Debug\Beräkningar.exe
+C:\Users\Mahmoud\Desktop\Ny mapp\Beräkningar\Beräkningar\obj\Debug\Beräkningar.pdb
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\bin\Debug\Beräkningar.exe.config
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\bin\Debug\Beräkningar.exe
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\bin\Debug\Beräkningar.pdb
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\obj\Debug\Beräkningar.csprojAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\obj\Debug\Beräkningar.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\obj\Debug\Beräkningar.exe
+C:\Users\Mahmoud\Desktop\Beräkningar\Ny mapp\Beräkningar\obj\Debug\Beräkningar.pdb
